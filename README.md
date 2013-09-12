@@ -2,6 +2,12 @@
 
 Generator style file splitter.
 
+Install like so:
+
+```
+npm install fsplit
+```
+
 Works like so:
 
 ```javascript
