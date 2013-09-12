@@ -1,0 +1,20 @@
+{
+  "name": "fsplit",
+  "version": "0.0.1",
+  "description": "Generator style file splitter",
+  "author": "Trevor Norris <trev.norris@gmail.com> (http://trevnorris.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trevnorris/fsplit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trevnorris/fsplit/issues",
+    "email": "trev.norris@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.11.3"
+  },
+  "main": "lib/fsplit.js",
+  "engineStrict": true,
+  "license": "MIT"
+}
