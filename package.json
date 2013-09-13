@@ -1,6 +1,6 @@
 {
   "name": "fsplit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generator style file splitter",
   "author": "Trevor Norris <trev.norris@gmail.com> (http://trevnorris.com)",
   "repository": {
